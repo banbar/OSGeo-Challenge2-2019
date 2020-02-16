@@ -1,6 +1,6 @@
 var developmentDatabase = {
     postgres: {
-    host: 'ec2-3-234-109-123.compute-1.amazonaws.com',
+    host: 'localhost',
     port: 5432,
     database: 'd8msv9mhcjbq09',
     user: 'hbztidilgyhddu',
@@ -40,7 +40,7 @@ var developmentDatabase = {
     return null;
     }
     module.exports = {
-    hostname: "https://challenge2-2019.herokuapp.com/",
+    hostname: "http://localhost",
     port: 5656,
     database: {
     postgres: developmentDatabase.postgres
