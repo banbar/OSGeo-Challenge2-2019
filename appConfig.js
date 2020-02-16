@@ -40,7 +40,7 @@ var developmentDatabase = {
     return null;
     }
     module.exports = {
-    hostname: "http://localhost",
+    hostname: "https://challenge2-2019.herokuapp.com/",
     port: 5656,
     database: {
     postgres: developmentDatabase.postgres
