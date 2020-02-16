@@ -1,6 +1,6 @@
 var developmentDatabase = {
     postgres: {
-    host: 'localhost',
+    host: 'ec2-3-234-109-123.compute-1.amazonaws.com',
     port: 5432,
     database: 'd8msv9mhcjbq09',
     user: 'hbztidilgyhddu',
