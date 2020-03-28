@@ -27,4 +27,4 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 |  Sıla Şadiye Yenice   | ssila.yenice@gmail.com         | https://silaa.herokuapp.com/             |
 |  Yazgı Nur Sayın      | yazgi.nur@hotmail.com          | https://tree-app-hu.herokuapp.com/       |
 
-\* These students have extended the tutorial to have additional functionalities.
+\* These students have extended the tutorial to include additional functionalities.
