@@ -7,21 +7,21 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 
 | Name & Surname        | Project's URL                            |
 |-----------------------|------------------------------------------|
-|  HATİCE KELEŞ         | https://gmt352pg.herokuapp.com/          |
-|  MUSA İLKER KARAOĞLU  | https://musageo.herokuapp.com/           |
-|  MERVE HİLAL ARSLAN   | https://osgeotutorial1.herokuapp.com/    |
-|  ATAHAN ÇELEBİ        | https://afour.herokuapp.com/             |
-|  ASLI ZEHRA ÇOŞKUN    | https://aslizehra.herokuapp.com/         |
-|  BURAK BERA DENİZ     | https://osgeo.herokuapp.com/             |
-|  METEHAN ERGEN        | https://dimmi-fratello.herokuapp.com/    |
-|  AYTAÇ ESKİCİ         | https://hacettepegeomatik.herokuapp.com/ |
-|  BERKAY İBİŞ          | https://berkaybmilletler.herokuapp.com/  |
 |  AHMET FIRAT KARAOĞLU | https://afk111.herokuapp.com/            |
+|  ASLI ZEHRA ÇOŞKUN    | https://aslizehra.herokuapp.com/         |
+|  ATAHAN ÇELEBİ        | https://afour.herokuapp.com/             |
+|  AYTAÇ ESKİCİ         | https://hacettepegeomatik.herokuapp.com/ |
 |  BERK KIVILCIM        | https://berk-unique.herokuapp.com/       |
-|  GÜLSÜM POSTALLI      | https://ungeospatialdata.herokuapp.com/  |
-|  YAZGI NUR SAYIN      | https://tree-app-hu.herokuapp.com/       |
-|  SILA ŞADİYE YENİCE   | https://silaa.herokuapp.com/             |
-|  SEVAY YILMAZ         | https://sevay.herokuapp.com/             |
+|  BERKAY İBİŞ          | https://berkaybmilletler.herokuapp.com/  |
+|  BURAK BERA DENİZ     | https://osgeo.herokuapp.com/             |
 |  GİZEM CAN            | https://treeknowledge.herokuapp.com/     |
-| MOHAMMAD ALMASRI      | https://qfield-database.herokuapp.com/   |
+|  GÜLSÜM POSTALLI      | https://ungeospatialdata.herokuapp.com/  |
+|  HATİCE KELEŞ         | https://gmt352pg.herokuapp.com/          |
+|  MERVE HİLAL ARSLAN   | https://osgeotutorial1.herokuapp.com/    |
+|  METEHAN ERGEN        | https://dimmi-fratello.herokuapp.com/    |
+|  MOHAMMAD ALMASRI     | https://qfield-database.herokuapp.com/   |
+|  MUSA İLKER KARAOĞLU  | https://musageo.herokuapp.com/           |
+|  SEVAY YILMAZ         | https://sevay.herokuapp.com/             |
+|  SILA ŞADİYE YENİCE   | https://silaa.herokuapp.com/             |
+|  YAZGI NUR SAYIN      | https://tree-app-hu.herokuapp.com/       |
 
