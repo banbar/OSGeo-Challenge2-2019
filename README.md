@@ -23,3 +23,5 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 |  SILA ŞADİYE YENİCE   | https://silaa.herokuapp.com/             |
 |  SEVAY YILMAZ         | https://sevay.herokuapp.com/             |
 |  GİZEM CAN            | https://treeknowledge.herokuapp.com/     |
+| MOHAMMAD ALMASRI      | https://qfield-database.herokuapp.com/   |
+
