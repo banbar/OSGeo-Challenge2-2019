@@ -12,7 +12,7 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 |  Atahan Çelebi *      | atahancelebi98@gmail.com       | https://afour.herokuapp.com/             |
 |  Aytaç Eskici         | aytaceskici_1998@hotmail.com   | https://hacettepegeomatik.herokuapp.com/ |
 |  Berk Kıvılcım        | b.b26.k.b@hotmail.com          | https://berk-unique.herokuapp.com/       |
-|  Berkay İbiş          | berkayyibis@hotmail.com        | https://berkaybmilletler.herokuapp.com/  |
+|  Berkay İbiş *         | berkayyibis@hotmail.com        | https://berkaybmilletler.herokuapp.com/  |
 |  Burak Bera Deniz     | burakdeniz536@gmail.com        | https://osgeo.herokuapp.com/             |
 |  Fatih Afacan         | afacan97__@hotmail.com         | https://unafacan.herokuapp.com/          |
 |  Gizem Can            | gzmcn1242@gmail.com            | https://treeknowledge.herokuapp.com/     |
