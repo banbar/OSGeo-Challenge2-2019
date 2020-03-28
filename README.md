@@ -17,6 +17,7 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 |  GİZEM CAN            | https://treeknowledge.herokuapp.com/     |
 |  GÜLSÜM POSTALLI      | https://ungeospatialdata.herokuapp.com/  |
 |  HATİCE KELEŞ         | https://gmt352pg.herokuapp.com/          |
+|  İLYAS ÇOKAN          | https://opengischallenge.herokuapp.com/  |
 |  MERVE HİLAL ARSLAN   | https://osgeotutorial1.herokuapp.com/    |
 |  METEHAN ERGEN        | https://dimmi-fratello.herokuapp.com/    |
 |  MOHAMMAD ALMASRI     | https://qfield-database.herokuapp.com/   |
@@ -24,4 +25,3 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 |  SEVAY YILMAZ         | https://sevay.herokuapp.com/             |
 |  SILA ŞADİYE YENİCE   | https://silaa.herokuapp.com/             |
 |  YAZGI NUR SAYIN      | https://tree-app-hu.herokuapp.com/       |
-
