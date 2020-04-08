@@ -18,7 +18,7 @@ Some of the following diligent students of cohort 2019-20 studying at the Dept. 
 |  Gizem Can            | gzmcn1242@gmail.com            | https://treeknowledge.herokuapp.com/     |
 |  Gülsüm Postallı      | gulsum38postalli@gmail.com     | https://ungeospatialdata.herokuapp.com/  |
 |  Hatice Keleş         | hatice.keles@hacettepe.edu.tr  | https://gmt352pg.herokuapp.com/          |
-|  İlyas Çokan **          | ilyascokan@yahoo.com           | https://opengischallenge.herokuapp.com/  |
+|  İlyas Çokan *          | ilyascokan@yahoo.com           | https://opengischallenge.herokuapp.com/  |
 |  Merve Hilal Arslan   | mervehilal237@gmail.com        | https://osgeotutorial1.herokuapp.com/    |
 |  Metehan Ergen        | mete982@gmail.com              | https://dimmi-fratello.herokuapp.com/    |
 |  Mohammad Almasri     | mohammad.a.almasri.7@gmail.com | https://qfield-database.herokuapp.com/   |
